@@ -71,5 +71,5 @@ body {
 }
 
 .press a:hover {
-	color: rgb(130, 152, 140);
+	border: 5px rgb(111,127,122) solid;
 }
