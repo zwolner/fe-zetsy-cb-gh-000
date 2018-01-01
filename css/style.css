@@ -42,7 +42,7 @@ body {
 }
 /*////////////IMAGE BORDERS////////*/
 
-.img, .press-link{
+.press{
 	border: 5px;
 	border-style: solid;
 	border-color: rgb(130, 152, 140);
