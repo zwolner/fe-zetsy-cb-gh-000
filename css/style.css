@@ -42,7 +42,7 @@ body {
 }
 /*////////////IMAGE BORDERS////////*/
 
-.press a:link{
+.img, .press a:link{
 	border: 5px;
 	border-style: solid;
 	border-color: rgb(130, 152, 140);
