@@ -73,3 +73,7 @@ body {
 	border: 5px rgb(111,127,122) solid;
   display: inline-block;
 }
+
+.press a:visited {
+  color: rgb(130, 152, 140);
+}
